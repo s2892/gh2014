@@ -1,0 +1,407 @@
+[
+    {
+        "LGA Code":null,
+        "Local Government Area":"Victoria",
+        "ERP":5632521
+    },
+    {
+        "LGA Code":20110,
+        "Local Government Area":"Alpine (S)",
+        "ERP":12109
+    },
+    {
+        "LGA Code":20260,
+        "Local Government Area":"Ararat (RC)",
+        "ERP":11335
+    },
+    {
+        "LGA Code":20570,
+        "Local Government Area":"Ballarat (C)",
+        "ERP":96935
+    },
+    {
+        "LGA Code":20660,
+        "Local Government Area":"Banyule (C)",
+        "ERP":123600
+    },
+    {
+        "LGA Code":20740,
+        "Local Government Area":"Bass Coast (S)",
+        "ERP":30616
+    },
+    {
+        "LGA Code":20830,
+        "Local Government Area":"Baw Baw (S)",
+        "ERP":44296
+    },
+    {
+        "LGA Code":20910,
+        "Local Government Area":"Bayside (C)",
+        "ERP":96992
+    },
+    {
+        "LGA Code":21010,
+        "Local Government Area":"Benalla (RC)",
+        "ERP":13731
+    },
+    {
+        "LGA Code":21110,
+        "Local Government Area":"Boroondara (C)",
+        "ERP":168458
+    },
+    {
+        "LGA Code":21180,
+        "Local Government Area":"Brimbank (C)",
+        "ERP":193334
+    },
+    {
+        "LGA Code":21270,
+        "Local Government Area":"Buloke (S)",
+        "ERP":6355
+    },
+    {
+        "LGA Code":21370,
+        "Local Government Area":"Campaspe (S)",
+        "ERP":36967
+    },
+    {
+        "LGA Code":21450,
+        "Local Government Area":"Cardinia (S)",
+        "ERP":80188
+    },
+    {
+        "LGA Code":21610,
+        "Local Government Area":"Casey (C)",
+        "ERP":267640
+    },
+    {
+        "LGA Code":21670,
+        "Local Government Area":"Central Goldfields (S)",
+        "ERP":12581
+    },
+    {
+        "LGA Code":21750,
+        "Local Government Area":"Colac-Otway (S)",
+        "ERP":20767
+    },
+    {
+        "LGA Code":21830,
+        "Local Government Area":"Corangamite (S)",
+        "ERP":16387
+    },
+    {
+        "LGA Code":21890,
+        "Local Government Area":"Darebin (C)",
+        "ERP":144641
+    },
+    {
+        "LGA Code":22110,
+        "Local Government Area":"East Gippsland (S)",
+        "ERP":43160
+    },
+    {
+        "LGA Code":22170,
+        "Local Government Area":"Frankston (C)",
+        "ERP":131754
+    },
+    {
+        "LGA Code":22250,
+        "Local Government Area":"Gannawarra (S)",
+        "ERP":10376
+    },
+    {
+        "LGA Code":22310,
+        "Local Government Area":"Glen Eira (C)",
+        "ERP":139242
+    },
+    {
+        "LGA Code":22410,
+        "Local Government Area":"Glenelg (S)",
+        "ERP":19758
+    },
+    {
+        "LGA Code":22490,
+        "Local Government Area":"Golden Plains (S)",
+        "ERP":19470
+    },
+    {
+        "LGA Code":22620,
+        "Local Government Area":"Greater Bendigo (C)",
+        "ERP":103605
+    },
+    {
+        "LGA Code":22670,
+        "Local Government Area":"Greater Dandenong (C)",
+        "ERP":144312
+    },
+    {
+        "LGA Code":22750,
+        "Local Government Area":"Greater Geelong (C)",
+        "ERP":218125
+    },
+    {
+        "LGA Code":22830,
+        "Local Government Area":"Greater Shepparton (C)",
+        "ERP":62379
+    },
+    {
+        "LGA Code":22910,
+        "Local Government Area":"Hepburn (S)",
+        "ERP":14728
+    },
+    {
+        "LGA Code":22980,
+        "Local Government Area":"Hindmarsh (S)",
+        "ERP":5781
+    },
+    {
+        "LGA Code":23110,
+        "Local Government Area":"Hobsons Bay (C)",
+        "ERP":88275
+    },
+    {
+        "LGA Code":23190,
+        "Local Government Area":"Horsham (RC)",
+        "ERP":19631
+    },
+    {
+        "LGA Code":23270,
+        "Local Government Area":"Hume (C)",
+        "ERP":178034
+    },
+    {
+        "LGA Code":23350,
+        "Local Government Area":"Indigo (S)",
+        "ERP":15373
+    },
+    {
+        "LGA Code":23430,
+        "Local Government Area":"Kingston (C)",
+        "ERP":150014
+    },
+    {
+        "LGA Code":23670,
+        "Local Government Area":"Knox (C)",
+        "ERP":154583
+    },
+    {
+        "LGA Code":23810,
+        "Local Government Area":"Latrobe (C)",
+        "ERP":74001
+    },
+    {
+        "LGA Code":23940,
+        "Local Government Area":"Loddon (S)",
+        "ERP":7506
+    },
+    {
+        "LGA Code":24130,
+        "Local Government Area":"Macedon Ranges (S)",
+        "ERP":43517
+    },
+    {
+        "LGA Code":24210,
+        "Local Government Area":"Manningham (C)",
+        "ERP":117036
+    },
+    {
+        "LGA Code":24250,
+        "Local Government Area":"Mansfield (S)",
+        "ERP":8052
+    },
+    {
+        "LGA Code":24330,
+        "Local Government Area":"Maribyrnong (C)",
+        "ERP":76866
+    },
+    {
+        "LGA Code":24410,
+        "Local Government Area":"Maroondah (C)",
+        "ERP":108168
+    },
+    {
+        "LGA Code":24600,
+        "Local Government Area":"Melbourne (C)",
+        "ERP":105418
+    },
+    {
+        "LGA Code":24650,
+        "Local Government Area":"Melton (C)",
+        "ERP":117881
+    },
+    {
+        "LGA Code":24780,
+        "Local Government Area":"Mildura (RC)",
+        "ERP":52197
+    },
+    {
+        "LGA Code":24850,
+        "Local Government Area":"Mitchell (S)",
+        "ERP":36143
+    },
+    {
+        "LGA Code":24900,
+        "Local Government Area":"Moira (S)",
+        "ERP":28647
+    },
+    {
+        "LGA Code":24970,
+        "Local Government Area":"Monash (C)",
+        "ERP":179931
+    },
+    {
+        "LGA Code":25060,
+        "Local Government Area":"Moonee Valley (C)",
+        "ERP":113513
+    },
+    {
+        "LGA Code":25150,
+        "Local Government Area":"Moorabool (S)",
+        "ERP":29347
+    },
+    {
+        "LGA Code":25250,
+        "Local Government Area":"Moreland (C)",
+        "ERP":156657
+    },
+    {
+        "LGA Code":25340,
+        "Local Government Area":"Mornington Peninsula (S)",
+        "ERP":150830
+    },
+    {
+        "LGA Code":25430,
+        "Local Government Area":"Mount Alexander (S)",
+        "ERP":17896
+    },
+    {
+        "LGA Code":25490,
+        "Local Government Area":"Moyne (S)",
+        "ERP":16226
+    },
+    {
+        "LGA Code":25620,
+        "Local Government Area":"Murrindindi (S)",
+        "ERP":13423
+    },
+    {
+        "LGA Code":25710,
+        "Local Government Area":"Nillumbik (S)",
+        "ERP":62751
+    },
+    {
+        "LGA Code":25810,
+        "Local Government Area":"Northern Grampians (S)",
+        "ERP":11945
+    },
+    {
+        "LGA Code":25900,
+        "Local Government Area":"Port Phillip (C)",
+        "ERP":100394
+    },
+    {
+        "LGA Code":25990,
+        "Local Government Area":"Pyrenees (S)",
+        "ERP":6746
+    },
+    {
+        "LGA Code":26080,
+        "Local Government Area":"Queenscliffe (B)",
+        "ERP":3085
+    },
+    {
+        "LGA Code":26170,
+        "Local Government Area":"South Gippsland (S)",
+        "ERP":27756
+    },
+    {
+        "LGA Code":26260,
+        "Local Government Area":"Southern Grampians (S)",
+        "ERP":16372
+    },
+    {
+        "LGA Code":26350,
+        "Local Government Area":"Stonnington (C)",
+        "ERP":101187
+    },
+    {
+        "LGA Code":26430,
+        "Local Government Area":"Strathbogie (S)",
+        "ERP":9666
+    },
+    {
+        "LGA Code":26490,
+        "Local Government Area":"Surf Coast (S)",
+        "ERP":27474
+    },
+    {
+        "LGA Code":26610,
+        "Local Government Area":"Swan Hill (RC)",
+        "ERP":20950
+    },
+    {
+        "LGA Code":26670,
+        "Local Government Area":"Towong (S)",
+        "ERP":5910
+    },
+    {
+        "LGA Code":26700,
+        "Local Government Area":"Wangaratta (RC)",
+        "ERP":27221
+    },
+    {
+        "LGA Code":26730,
+        "Local Government Area":"Warrnambool (C)",
+        "ERP":33004
+    },
+    {
+        "LGA Code":26810,
+        "Local Government Area":"Wellington (S)",
+        "ERP":42294
+    },
+    {
+        "LGA Code":26890,
+        "Local Government Area":"West Wimmera (S)",
+        "ERP":4195
+    },
+    {
+        "LGA Code":26980,
+        "Local Government Area":"Whitehorse (C)",
+        "ERP":159296
+    },
+    {
+        "LGA Code":27070,
+        "Local Government Area":"Whittlesea (C)",
+        "ERP":169955
+    },
+    {
+        "LGA Code":27170,
+        "Local Government Area":"Wodonga (RC)",
+        "ERP":36576
+    },
+    {
+        "LGA Code":27260,
+        "Local Government Area":"Wyndham (C)",
+        "ERP":178859
+    },
+    {
+        "LGA Code":27350,
+        "Local Government Area":"Yarra (C)",
+        "ERP":80987
+    },
+    {
+        "LGA Code":27450,
+        "Local Government Area":"Yarra Ranges (S)",
+        "ERP":149235
+    },
+    {
+        "LGA Code":27630,
+        "Local Government Area":"Yarriambiack (S)",
+        "ERP":7102
+    },
+    {
+        "LGA Code":29399,
+        "Local Government Area":"Unincorporated Vic",
+        "ERP":774
+    }
+]
